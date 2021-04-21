@@ -1,0 +1,91 @@
+1. Search on Wikipedia
+Eg : Search Narendra Modi on wikipedia
+     What is VLC
+
+================================================
+
+2. Send Email
+Eg : Send an email
+
+================================================
+
+3. Search in Chrome
+Eg : Search in Chrome
+
+================================================
+
+4. Search in Youtube
+Eg : Search Youtube
+
+================================================
+
+5. Search in Google
+Eg : Search Google
+
+================================================
+
+6. CPU Info
+Eg : Tell me details about my cpu
+
+================================================
+
+7. Go offline
+Eg : Ace, go offline
+
+================================================
+
+8. Open MS-word
+Eg: Ace, open word
+
+================================================
+
+9. Write Notes
+Eg : Ace, write a note
+
+================================================
+
+10. Show Notes
+Eg : Ace, show notes
+
+================================================
+
+11. Play Local Music
+Eg : Ace, play music
+
+================================================
+
+12. Remember Stuff
+Eg : Ace, remember that 
+	I kept my keys in the dining room
+
+================================================
+
+13. Check Remembered Stuff
+Eg : Ace, do you remember anything?
+
+================================================
+
+14. Check out the latest news
+Eg : Ace, Tell me the latest news
+
+================================================
+
+15. Check out and Navigate to locations
+Eg : Ace, where is Eiffel Tower
+
+================================================
+
+16. Check definitions
+Eg : Ace, define Entrepreneur
+
+================================================
+
+17. Pause Listening
+Eg : Ace, stop listening
+
+================================================
+
+18. Logout,Shutdown,Restart
+Eg : Ace, Shutdown the system
+     Ace, Logout the system
+     Ace, Restart the system
